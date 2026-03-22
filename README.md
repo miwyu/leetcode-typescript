@@ -30,7 +30,7 @@ npm run check
 npm run format
 ```
 
-詳細なコマンドと使用例は[AGENTS.md](./AGENTS.md#必須コマンド)を参照
+詳細なコマンドと使用例は[AGENTS.md](./AGENTS.md#基本コマンド)を参照
 
 ## 新規問題の追加
 
